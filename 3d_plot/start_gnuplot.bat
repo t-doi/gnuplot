@@ -1,0 +1,1 @@
+C:\usr\gnuplot4.6\bin\wgnuplot.exe
